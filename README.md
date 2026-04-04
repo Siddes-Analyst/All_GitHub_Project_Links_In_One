@@ -1,6 +1,4 @@
-# 🧮 EXCEL PROJECTS
-
-## 📱 Sales and Marketing Performance Analysis of Vivo Smartphones Using Excel
+## 1. Sales and Marketing Performance Analysis of Vivo Smartphones Using Excel
 
 ### 📌 Project Objective
 
@@ -12,14 +10,11 @@ To analysis the Vivo mobile Sales Vs Profit Growth and Trends of
 
 ### 📊 Project and Links
 
-Live Dashboard Link: 
+Data Analysis Dashboard Link: 
+- [https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+
+Data Report Dashboard Link: 
 - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
-
-Project Report Link: 
-- [https://siddes-analyst.github.io/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel/]
-
-Repositories Link:
-- [https://github.com/Siddes-Analyst/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel]
 
 ---
 

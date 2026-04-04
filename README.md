@@ -69,7 +69,7 @@ Data Report Dashboard Link:
 - [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
 Repositories Link:
-- [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
+- [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
 
 ---
 

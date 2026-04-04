@@ -16,6 +16,9 @@ Data Analysis Dashboard Link:
 Data Report Dashboard Link: 
 - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
 
+Repositories Link:
+- [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
+
 ---
 
 ## 2. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Analysis ✈️
@@ -40,6 +43,9 @@ Data Analysis Dashboard Link:
 Data Report Dashboard Link: 
 - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
 
+Repositories Link:
+- [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
+
 ---
 
 ## 3. 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis 🛒
@@ -62,27 +68,8 @@ Data Analysis Dashboard Link:
 Data Report Dashboard Link: 
 - [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
----
-
-## 🌐 2000-2024 Happiest Minds Technologys Employee Analysis HR Dashboard Using Power-BI
-
-### 📌 Project Objective
-
-To analyse the employee details and its salary details of Happiest Minds Technology’s across Locations.
-  - Chennai Analysis
-  - Bangalore Analysis
-  - Hyderabad Analysis
-
-### 📊 Project and Links
-
-Live Dashboard Link: 
-- [https://app.powerbi.com/view?r=eyJrIjoiYjZiYWVmZDctM2IyMi00NDhiLTgzZTktMTc4Yzg5MjdjZjJkIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
-
-Project Report Link: 
-- [https://siddes-analyst.github.io/2000-2024_Happiest_Minds_Technologys_Employee_Analysis_HR_Dashboard_Using_Power-BI/]
-
 Repositories Link:
-- [https://github.com/Siddes-Analyst/2000-2024_Happiest_Minds_Technologys_Employee_Analysis_HR_Dashboard_Using_Power-BI]
+- [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
 
 ---
 

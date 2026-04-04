@@ -1,4 +1,4 @@
-## 1. Sales and Marketing Performance Analysis of Vivo Smartphones Using Excel
+## 1. Sales and Marketing Performance Analysis of Vivo Smartphones
 
 ### 📌 Project Objective
 

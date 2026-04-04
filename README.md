@@ -17,7 +17,7 @@ Data Report Dashboard Link:
 - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
 
 Repositories Link:
-- [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
+- [https://github.com/Siddes-Analyst/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel]
 
 ---
 

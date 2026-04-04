@@ -18,7 +18,7 @@ Data Report Dashboard Link:
 
 ---
 
-## ✈️ Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Analysis Using Excel
+## 2. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Analysis ✈️
 
 ### 📌 Project Objective
 
@@ -34,14 +34,11 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
 
 ### 📊 Project and Links
 
-Live Dashboard Link: 
+Data Analysis Dashboard Link:
+- [https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+
+Data Report Dashboard Link: 
 - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
-
-Project Report Link: 
-- [https://siddes-analyst.github.io/Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel/]
-
-Repositories Link:
-- [https://github.com/Siddes-Analyst/Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel]
 
 ---
 

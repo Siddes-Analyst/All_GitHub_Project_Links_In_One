@@ -42,9 +42,7 @@ Data Report Dashboard Link:
 
 ---
 
-# 🖥️ POWER-BI PROJECTS
-
-## 🛒 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis
+## 3. 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis 🛒
 
 ### 📌 Project Objective
 
@@ -58,14 +56,11 @@ To analyse the sales and profit performance of rice products across Bangalore D-
 
 ### 📊 Project and Links
 
-Live Dashboard Link: 
+Data Analysis Dashboard Link:
+- [https://app.powerbi.com/view?r=eyJrIjoiZDU4NjNlOTUtYmQwNy00ZTBlLTkzNDYtZWQ2MzFiODIyYTc2IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+
+Data Report Dashboard Link: 
 - [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
-
-Project Report Link: 
-- [https://siddes-analyst.github.io/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI/]
-
-Repositories Link:
-- [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
 
 ---
 

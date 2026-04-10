@@ -85,7 +85,7 @@ This project analyzes D-Mart rice brand sales data using MySQL. 15 business-orie
 - Top-Performing Products
 - Location-Wise Trends
 
-#### 📊 Queries & Output Link - [https://siddes-analyst.github.io/Dmart-Rice-Sales-Analysis-MySQL/]
+#### 📊 Queries & Output Link - [https://siddes-analyst.github.io/Dmart_Rice_Sales_Analysis_MySQL/]
 
 #### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
 
@@ -105,8 +105,8 @@ This project focuses on identifying and handling missing values in a simulated r
 
 This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
 
-#### 📊 Codes & Output Link - https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/
+#### 📊 Codes & Output Link - [https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/]
 
-#### 📁 Repositories Link - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
+#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project]
 
 ---

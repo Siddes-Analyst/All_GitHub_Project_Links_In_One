@@ -6,7 +6,7 @@ This project analyzes flight operations, seat occupancy, revenue, and profitabil
 
 ---
 
-## 2. Year of 2024 Bangalore D Mart Rice Brand Analysis
+## 2. Year of 2024 Bangalore D Mart Rice Brand Analysis 🛒
 
 This project analyzes rice product sales, profit performance, and customer buying behavior across 17 D-Mart stores in Bangalore. The objective is to identify high-performing categories, brands, and time-based trends to support data-driven business decisions.
 
@@ -14,28 +14,11 @@ This project analyzes rice product sales, profit performance, and customer buyin
 
 ---
 
-## 3. 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis 🛒
+## 3. Vivo Mobile Sales and Market Performance Analysis 📱
 
-### 📌 Project Objective
+This project analyzes mobile sales, profit performance, and customer buying behavior across multiple models, price segments, and states over a 3-year period (2022–2024). The goal is to identify top-performing products, market trends, and growth opportunities to support strategic business decisions.
 
-To analyse the sales and profit performance of rice products across Bangalore D-Mart stores.
-  - By Years
-  - By Months
-  - By Stores
-  - By Rice Brands
-  - By Product Category
-  - By Product Quantity
-
-### 📊 Project and Links
-
-Data Analysis Dashboard Link:
-- [https://app.powerbi.com/view?r=eyJrIjoiZDU4NjNlOTUtYmQwNy00ZTBlLTkzNDYtZWQ2MzFiODIyYTc2IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
-
-Data Report Dashboard Link: 
-- [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
-
-Repositories Link:
-- [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
+#### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
 ---
 

@@ -38,6 +38,18 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
 
 ---
 
+## 5. Year of 2024 Bangalore D Mart Rice Brand Data Reporting 🛒
+
+*To analysis the Vivo mobile Sales Vs Profit Growth and Trends of*
+  - Daily Analysis
+  - Weekly Analysis
+  - Monthly Analysis
+  - Yearly Analysis 
+
+#### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
+
+---
+
 # 🐬 My-SQL PROJECTS
 
 ## 🛒 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis Using MySQL

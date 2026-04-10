@@ -22,6 +22,21 @@ This project analyzes mobile sales, profit performance, and customer buying beha
 
 ---
 
+## 4. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Analysis ✈️
+
+*To analyse the flight trips between*
+  - Bangalore (BLR) → Chennai (MSS)
+    - Day-wise Trip Analysis
+    - Flight-wise Trip Analysis
+  - Chennai (MSS) → Bangalore (BLR)
+    - Day-wise Trip Analysis
+    - Flight-wise Trip Analysis 
+covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
+
+#### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
+
+---
+
 # 🐬 My-SQL PROJECTS
 
 ## 🛒 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products Analysis Using MySQL

@@ -42,6 +42,8 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
 
 #### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
 
+#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel]
+
 ---
 
 ## 5. Vivo Mobile Sales and Market Performance Analysis 📱
@@ -53,6 +55,8 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
   - Yearly Analysis 
 
 #### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
+
+#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel]
 
 ---
 
@@ -67,6 +71,8 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
 - By Product Quantity
 
 #### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+
+#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
 
 ---
 

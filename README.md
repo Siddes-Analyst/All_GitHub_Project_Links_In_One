@@ -4,6 +4,8 @@ This project analyzes flight operations, seat occupancy, revenue, and profitabil
 
 #### 🌐 Live Dashboard Link - [[https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9)]
 
+#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Year_of_2024_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis]
+
 ---
 
 ## 2. Year of 2024 Bangalore D Mart Rice Brand Analysis 🛒

@@ -98,8 +98,3 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 #### 📁 Repositories Link - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
 
 ---
-
-Repositories Link:
-- https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
-
----

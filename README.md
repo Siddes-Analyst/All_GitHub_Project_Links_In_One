@@ -31,6 +31,7 @@ This project analyzes mobile sales, profit performance, and customer buying beha
   - Chennai (MSS) → Bangalore (BLR)
     - Day-wise Trip Analysis
     - Flight-wise Trip Analysis 
+
 covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
 
 #### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]

@@ -22,7 +22,7 @@ This project analyzes mobile sales, profit performance, and customer buying beha
 
 ---
 
-## 4. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Analysis ✈️
+## 4. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Data Reporting ✈️
 
 *To analyse the flight trips between*
   - Bangalore (BLR) → Chennai (MSS)

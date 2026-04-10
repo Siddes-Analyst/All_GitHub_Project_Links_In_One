@@ -1,4 +1,4 @@
-## 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis
+## 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️
 
 This project analyzes flight operations, seat occupancy, revenue, and profitability for Indigo flights operating between Bangalore (BLR) and Chennai (MAA) in 2024. The objective is to identify high-performing flights, optimal timings, and aircraft efficiency to improve overall profitability.
 
@@ -6,30 +6,11 @@ This project analyzes flight operations, seat occupancy, revenue, and profitabil
 
 ---
 
-## 2. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Analysis ✈️
+## 2. Year of 2024 Bangalore D Mart Rice Brand Analysis
 
-### 📌 Project Objective
+This project analyzes rice product sales, profit performance, and customer buying behavior across 17 D-Mart stores in Bangalore. The objective is to identify high-performing categories, brands, and time-based trends to support data-driven business decisions.
 
-To analyse the flight trips between
-  - Bangalore (BLR) → Chennai (MSS)
-    - Day-wise Trip Analysis
-    - Flight-wise Trip Analysis
-  - Chennai (MSS) → Bangalore (BLR)
-    - Day-wise Trip Analysis
-    - Flight-wise Trip Analysis
-    
-covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
-
-### 📊 Project and Links
-
-Data Analysis Dashboard Link:
-- [https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
-
-Data Report Dashboard Link: 
-- [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
-
-Repositories Link:
-- [https://github.com/Siddes-Analyst/Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel/blob/main/README.md]
+#### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiZDU4NjNlOTUtYmQwNy00ZTBlLTkzNDYtZWQ2MzFiODIyYTc2IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
 ---
 

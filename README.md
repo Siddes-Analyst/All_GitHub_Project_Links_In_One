@@ -52,13 +52,13 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
 
 ## 6. Year of 2024 Bangalore D Mart Rice Brand Analysis 🛒
 
-* To analyse the sales and profit performance of rice products across Bangalore D-Mart stores.*
-By Years
-By Months
-By Stores
-By Rice Brands
-By Product Category
-By Product Quantity
+*To analyse the sales and profit performance of rice products across Bangalore D-Mart stores.*
+- By Years
+- By Months
+- By Stores
+- By Rice Brands
+- By Product Category
+- By Product Quantity
 
 #### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 

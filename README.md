@@ -99,33 +99,6 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 
 ---
 
-# 🐍 PYTHON PROJECTS
-
-## 🛒 01 Handling Walmart Null Values Dataset Project
-
-### 📌 Project Objective
-This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
-
-### 📊 Project and Links
-
-Codes & Output Link: 
-- https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/
-
-Repositories Link:
-- https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
-
----
-
-## 🛒 02_Walmart_Sales_EDA_Project
-
-### 📌 Project Overview
-This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
-
-### 📊 Project and Overall and GitHub_Pages Links
-
-Codes & Output Link:
-- https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/
-
 Repositories Link:
 - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
 

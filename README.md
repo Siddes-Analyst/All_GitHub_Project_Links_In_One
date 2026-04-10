@@ -2,7 +2,7 @@
 
 This project analyzes flight operations, seat occupancy, revenue, and profitability for Indigo flights operating between Bangalore (BLR) and Chennai (MAA) in 2024. The objective is to identify high-performing flights, optimal timings, and aircraft efficiency to improve overall profitability.
 
-### 🌐 Live Dashboard Link - [[https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9)]
+#### 🌐 Live Dashboard Link - [[https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9)]
 
 ---
 

@@ -79,7 +79,23 @@ This project analyzes D-Mart rice brand sales data using MySQL. 15 business-orie
 
 ---
 
-#  My-SQL PROJECTS
+## 8. 🛒 Walmart Sales Performance Exploratory Data Analysis Project Using Python 🐍
+
+This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
+
+#### 📊 Codes & Output Link - https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/
+
+#### 📁 Repositories Link - https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project
+
+---
+
+## 9. Handling Walmart Null Values Dataset Project Using Python 🐍
+
+This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
+
+#### 📊 Codes & Output Link - https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/
+
+#### 📁 Repositories Link - https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project
 
 ---
 

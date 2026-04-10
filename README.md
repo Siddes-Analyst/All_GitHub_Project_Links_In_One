@@ -75,8 +75,7 @@ This project analyzes D-Mart rice brand sales data using MySQL. 15 business-orie
 
 #### 📊 Queries & Output Link - [https://siddes-analyst.github.io/Dmart-Rice-Sales-Analysis-MySQL/]
 
-#### Repositories Link:
-- [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
+#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
 
 ---
 

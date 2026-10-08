@@ -9,6 +9,8 @@ Data Analyst with hands-on experience in
 
 through practical data analysis projects.
 
+---
+
 ## 📊 Power BI Projects
 
 ### 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️

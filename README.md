@@ -11,7 +11,7 @@ through practical data analysis projects.
 
 ---
 
-## 📊 Power BI Projects
+# 📊 Power BI Projects
 
 ### 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️
 
@@ -53,6 +53,16 @@ To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis,
 
 ---
 
+# 🐍 Python Projects
+
+### 1. D-Mart Rice Sales & Business Analytics | 88 Python/Pandas Analysis 🎯
+
+This project uses a D-Mart Rice Sales dataset covering 5 years of sales data across Year, Month, Date, Location, Product Name, Product ID, Product Category, Product Quantity, Rice Brand, Unit Price, Purchase Cost, Unit Sold, Total Purchase, Sales, and Profit.
+
+##### 🌐 Live Dashboard Link - [https://siddes-analyst.github.io/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis/]
+
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis]
+
 ## 4. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Data Reporting ✈️
 
 *To analyse the flight trips between*
@@ -65,23 +75,9 @@ To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis,
 
 covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
 
-#### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
+#### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb68170]
 
 #### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel]
-
----
-
-## 5. Vivo Mobile Sales and Market Performance Data Reporting 📱
-
-*To analysis the Vivo mobile Sales Vs Profit Growth and Trends of*
-  - Daily Analysis
-  - Weekly Analysis
-  - Monthly Analysis
-  - Yearly Analysis 
-
-#### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
-
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel]
 
 ---
 

@@ -1,3 +1,5 @@
+# All Projects Home Page
+
 Data Analyst with hands-on experience in
 
 - 📊 Power BI

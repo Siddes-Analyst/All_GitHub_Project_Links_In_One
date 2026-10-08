@@ -1,11 +1,9 @@
-# Project Home Pages
-
 Data Analyst with hands-on experience in
 
-- Python
-- MySQL
-- Power BI
-- Excel
+- 📊 Power BI
+- 🐍 Python
+- 🗄️ SQL
+- 📗 Excel
 
 through practical data analysis projects.
 

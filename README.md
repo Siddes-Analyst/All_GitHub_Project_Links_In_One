@@ -25,9 +25,9 @@ This project analyzes IndiGo flight operations, seat occupancy, revenue, and pro
 
 This project analyzes rice product sales, profit performance, and customer buying behavior across 17 D-Mart stores in Bangalore. The objective is to identify high-performing categories, brands, and time-based trends to support data-driven business decisions.
 
-#### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiZDU4NjNlOTUtYmQwNy00ZTBlLTkzNDYtZWQ2MzFiODIyYTc2IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+##### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiZDU4NjNlOTUtYmQwNy00ZTBlLTkzNDYtZWQ2MzFiODIyYTc2IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Year_of_2024_Bangalore_D_Mart_Rice_Brand_Analysis]
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Year_of_2024_Bangalore_D_Mart_Rice_Brand_Analysis]
 
 ---
 

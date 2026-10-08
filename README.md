@@ -59,7 +59,7 @@ To analyse the sales and profit performance of rice products across Bangalore D-
 
 This project uses a D-Mart Rice Sales dataset covering 5 years of sales data across Year, Month, Date, Location, Product Name, Product ID, Product Category, Product Quantity, Rice Brand, Unit Price, Purchase Cost, Unit Sold, Total Purchase, Sales, and Profit.
 
-##### 🌐 Live Dashboard Link - [https://siddes-analyst.github.io/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis/]
+##### 🌐 Codes & Output Link - [https://siddes-analyst.github.io/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis/]
 
 ##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis]
 
@@ -69,7 +69,7 @@ This project uses a D-Mart Rice Sales dataset covering 5 years of sales data acr
 
 This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
 
-##### 📊 Codes & Output Link - [https://siddes-analyst.github.io/Walmart_Sales_Exploratory_Data_Analysis_Project/]
+##### 🌐 Codes & Output Link - [https://siddes-analyst.github.io/Walmart_Sales_Exploratory_Data_Analysis_Project/]
 
 ##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project]
 
@@ -79,7 +79,7 @@ This project focuses on identifying and handling missing values in a simulated r
 
 This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
 
-##### 📊 Codes & Output Link - [https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/]
+##### 🌐 Codes & Output Link - [https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/]
 
 ##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project]
 
@@ -87,22 +87,29 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 
 # 🗄️ SQL Projects
 
+### 1. Olive Store E-Commerce Data Analysis SQL Project 📦
 
+The project contains 54 SQL analysis questions, using joins, CTEs, subqueries, aggregate functions, window functions, date functions, ranking, and other SQL techniques to derive meaningful business insights.
 
+##### 🌐 Queries & Output Link - [https://siddes-analyst.github.io/Olive-Store-SQL-Data-Analysis/]
 
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Olive-Store-SQL-Data-Analysis]
 
+---
 
+### 2. 2020 – 2024 Sales Performance of Bangalore D Mart Stores Rice Products Analysis Using SQL 📅
 
+This project analyzes D-Mart rice brand sales data using MySQL. 15 business-oriented SQL queries were solved to extract insights such as Sales Performance, Revenue Contribution, Fake Discount Detection, Top-Performing Products, Location-Wise Trends
 
+##### 🌐 Queries & Output Link - [https://siddes-analyst.github.io/Dmart_Rice_Sales_Analysis_MySQL/]
 
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
 
+---
 
+# 📗 Excel Projects
 
-
-
-
-
-### 4. Vivo Mobile Sales and Market Performance Data Reporting 📱
+### 1. Vivo Mobile Sales and Market Performance Data Reporting 📱
 
 To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis, Weekly Analysis, Monthly Analysis, Yearly Analysis 
 
@@ -130,53 +137,6 @@ covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and 
 
 ---
 
-## 6. Year of 2024 Bangalore D Mart Rice Brand Data Reporting 🛒
 
-*To analyse the sales and profit performance of rice products across Bangalore D-Mart stores.*
-- By Years
-- By Months
-- By Stores
-- By Rice Brands
-- By Product Category
-- By Product Quantity
 
-#### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
-
----
-
-## 7. 2020 – 2024 Sales Performance of Bangalore D Mart Stores Rice Products Analysis Using MySQL 🐬
-
-This project analyzes D-Mart rice brand sales data using MySQL. 15 business-oriented SQL queries were solved to extract insights such as
-- Sales Performance
-- Revenue Contribution
-- Fake Discount Detection
-- Top-Performing Products
-- Location-Wise Trends
-
-#### 📊 Queries & Output Link - [https://siddes-analyst.github.io/Dmart_Rice_Sales_Analysis_MySQL/]
-
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Dmart-Rice-Sales-Analysis-MySQL]
-
----
-
-## 8. 🛒 Walmart Sales Performance Exploratory Data Analysis Project Using Python 🐍
-
-This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
-
-#### 📊 Codes & Output Link - [https://siddes-analyst.github.io/Walmart_Sales_Exploratory_Data_Analysis_Project/]
-
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project]
-
----
-
-## 9. Handling Walmart Null Values Dataset Project Using Python 🐍
-
-This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
-
-#### 📊 Codes & Output Link - [https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/]
-
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project]
-
----

@@ -1,3 +1,8 @@
+
+
+Data Analyst with hands-on experience in Python, MySQL, Power BI, and Excel through practical data analysis projects.
+Explore my projects below to view the analysis, dashboards, visualizations, and key insights.
+
 ### 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️
 
 This project analyzes flight operations, seat occupancy, revenue, and profitability for Indigo flights operating between Bangalore (BLR) and Chennai (MAA) in 2024. The objective is to identify high-performing flights, optimal timings, and aircraft efficiency to improve overall profitability.

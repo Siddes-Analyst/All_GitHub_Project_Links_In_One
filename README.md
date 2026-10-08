@@ -13,7 +13,7 @@ through practical data analysis projects.
 
 # 📊 Power BI Projects
 
-### 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️
+### Project 1 - Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️
 
 This project analyzes IndiGo flight operations, seat occupancy, revenue, and profitability for BLR–MAA flights in 2024 to identify high-performing flights, optimal timings, and aircraft efficiency for improved profitability.
 
@@ -23,7 +23,7 @@ This project analyzes IndiGo flight operations, seat occupancy, revenue, and pro
 
 ---
 
-### 2. Year of 2024 Bangalore D Mart Rice Brand Analysis 🛒
+### Project 2 - Year of 2024 Bangalore D Mart Rice Brand Analysis 🛒
 
 This project analyzes rice product sales, profit performance, and customer buying behavior across 17 D-Mart stores in Bangalore. The objective is to identify high-performing categories, brands, and time-based trends to support data-driven business decisions.
 
@@ -33,7 +33,7 @@ This project analyzes rice product sales, profit performance, and customer buyin
 
 ---
 
-### 3. Vivo Mobile Sales and Market Performance Analysis 📱
+### Project 3 - Vivo Mobile Sales and Market Performance Analysis 📱
 
 This project analyzes mobile sales, profitability, and customer buying behavior across models, price segments, and states from 2022–2024 to identify top-performing products, market trends, and growth opportunities.
 
@@ -43,7 +43,7 @@ This project analyzes mobile sales, profitability, and customer buying behavior 
 
 ---
 
-### 4. Year of 2024 Bangalore D Mart Rice Brand Data Reporting 🛒
+### Project 4 - Year of 2024 Bangalore D Mart Rice Brand Data Reporting 🛒
 
 To analyse the sales and profit performance of rice products across Bangalore D-Mart stores - Years, Months, Stores, Rice Brands, Product Category, Product Quantity
 
@@ -55,7 +55,7 @@ To analyse the sales and profit performance of rice products across Bangalore D-
 
 # 🐍 Python Projects
 
-### 1. D-Mart Rice Sales & Business Analytics | 88 Python/Pandas Analysis 🎯
+### Project 1 - D-Mart Rice Sales & Business Analytics | Python/Pandas Analysis 🎯
 
 This project uses a D-Mart Rice Sales dataset covering 5 years of sales data across Year, Month, Date, Location, Product Name, Product ID, Product Category, Product Quantity, Rice Brand, Unit Price, Purchase Cost, Unit Sold, Total Purchase, Sales, and Profit.
 
@@ -65,7 +65,7 @@ This project uses a D-Mart Rice Sales dataset covering 5 years of sales data acr
 
 ---
 
-### 2. Walmart Sales Performance Exploratory Data Analysis Project Using Python 🛒
+### Project 2 - Walmart Sales Performance Exploratory Data Analysis Project Using Python 🛒
 
 This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
 
@@ -75,7 +75,7 @@ This project focuses on identifying and handling missing values in a simulated r
 
 ---
 
-### 3. Handling Null Values Dataset Project Using Python 🔍
+### Project 3 - Handling Null Values Dataset Project Using Python 🔍
 
 This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
 
@@ -87,9 +87,9 @@ This project explores Walmart sales data to uncover insights, trends, and perfor
 
 # 🗄️ SQL Projects
 
-### 1. Olive Store E-Commerce Data Analysis SQL Project 📦
+### Project 1 - Olive Store E-Commerce Data Analysis SQL Project 📦
 
-The project contains 54 SQL analysis questions, using joins, CTEs, subqueries, aggregate functions, window functions, date functions, ranking, and other SQL techniques to derive meaningful business insights.
+The project contains SQL analysis questions, using joins, CTEs, subqueries, aggregate functions, window functions, date functions, ranking, and other SQL techniques to derive meaningful business insights.
 
 ##### 🌐 Queries & Output Link - [https://siddes-analyst.github.io/Olive-Store-SQL-Data-Analysis/]
 
@@ -97,9 +97,9 @@ The project contains 54 SQL analysis questions, using joins, CTEs, subqueries, a
 
 ---
 
-### 2. 2020 – 2024 Sales Performance of Bangalore D Mart Stores Rice Products Analysis Using SQL 📅
+### Project 2 - 2020 – 2024 Sales Performance of Bangalore D Mart Stores Rice Products Analysis Using SQL 📅
 
-This project analyzes D-Mart rice brand sales data using MySQL. 15 business-oriented SQL queries were solved to extract insights such as Sales Performance, Revenue Contribution, Fake Discount Detection, Top-Performing Products, Location-Wise Trends
+This project analyzes D-Mart rice brand sales data using SQL. SQL queries were solved to extract insights such as Sales Performance, Revenue Contribution, Fake Discount Detection, Top-Performing Products, Location-Wise Trends
 
 ##### 🌐 Queries & Output Link - [https://siddes-analyst.github.io/Dmart_Rice_Sales_Analysis_MySQL/]
 
@@ -109,7 +109,7 @@ This project analyzes D-Mart rice brand sales data using MySQL. 15 business-orie
 
 # 📗 Excel Projects
 
-### 1. Vivo Mobile Sales and Market Performance Data Reporting 📱
+### Project 1 - Vivo Mobile Sales and Market Performance Data Reporting 📱
 
 To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis, Weekly Analysis, Monthly Analysis, Yearly Analysis 
 
@@ -119,7 +119,7 @@ To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis,
 
 ---
 
-### 2. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Data Reporting ✈️
+### Project 2 - Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Data Reporting ✈️
 
 To analyse the flight trips between - 
   - Bangalore (BLR) → Chennai (MSS)

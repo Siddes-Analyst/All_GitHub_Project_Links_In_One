@@ -63,6 +63,33 @@ This project uses a D-Mart Rice Sales dataset covering 5 years of sales data acr
 
 ##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis]
 
+---
+
+### 2. Walmart Sales Performance Exploratory Data Analysis Project Using Python 🛒
+
+This project focuses on identifying and handling missing values in a simulated real-world Walmart sales dataset. The goal was to apply thoughtful, column-specific strategies to clean the data and make it ready for further analysis.
+
+##### 📊 Codes & Output Link - [https://siddes-analyst.github.io/Walmart_Sales_Exploratory_Data_Analysis_Project/]
+
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/02_Walmart_Sales_EDA_Project]
+
+---
+
+### 3. Handling Null Values Dataset Project Using Python 🔍
+
+This project explores Walmart sales data to uncover insights, trends, and performance metrics using Python (Pandas, Matplotlib, Seaborn).
+
+##### 📊 Codes & Output Link - [https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/]
+
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/01_Walmart_Null_Values_Handling_Project]
+
+---
+
+# 🗄️ SQL Projects
+
+
+
+
 
 
 

@@ -33,11 +33,11 @@ This project analyzes rice product sales, profit performance, and customer buyin
 
 ## 3. Vivo Mobile Sales and Market Performance Analysis 📱
 
-This project analyzes mobile sales, profit performance, and customer buying behavior across multiple models, price segments, and states over a 3-year period (2022–2024). The goal is to identify top-performing products, market trends, and growth opportunities to support strategic business decisions.
+This project analyzes mobile sales, profitability, and customer buying behavior across models, price segments, and states from 2022–2024 to identify top-performing products, market trends, and growth opportunities.
 
-#### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+##### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Vivo_Mobile_Sales_and_Market_Performance_Analysis]
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Vivo_Mobile_Sales_and_Market_Performance_Analysis]
 
 ---
 

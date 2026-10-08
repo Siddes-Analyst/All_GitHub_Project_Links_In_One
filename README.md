@@ -1,7 +1,5 @@
 # Project Home Pages
 
-## 📊 Project Overview
-
 Data Analyst with hands-on experience in
 
 - Python
@@ -10,6 +8,8 @@ Data Analyst with hands-on experience in
 - Excel
 
 through practical data analysis projects.
+
+## 📊 Power BI Projects
 
 ### 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️
 

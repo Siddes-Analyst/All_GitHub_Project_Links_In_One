@@ -121,17 +121,11 @@ To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis,
 
 ## 4. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Data Reporting ✈️
 
-*To analyse the flight trips between*
+To analyse the flight trips between - 
   - Bangalore (BLR) → Chennai (MSS)
-    - Day-wise Trip Analysis
-    - Flight-wise Trip Analysis
   - Chennai (MSS) → Bangalore (BLR)
-    - Day-wise Trip Analysis
-    - Flight-wise Trip Analysis 
 
-covering Passenger Seat Occupancy, Total Earnings, Flight Operational Cost, and Profit.
-
-#### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb68170]
+#### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
 
 #### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Chennai_To_Bangalore_And_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis_Using_Excel]
 

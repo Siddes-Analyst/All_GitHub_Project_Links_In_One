@@ -15,9 +15,9 @@ through practical data analysis projects.
 
 This project analyzes IndiGo flight operations, seat occupancy, revenue, and profitability for BLR–MAA flights in 2024 to identify high-performing flights, optimal timings, and aircraft efficiency for improved profitability.
 
-#### 🌐 Live Dashboard Link - [[https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9)]
+##### 🌐 Live Dashboard Link - [[https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9)]
 
-#### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Year_of_2024_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis]
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Year_of_2024_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis]
 
 ---
 

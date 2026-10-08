@@ -43,13 +43,13 @@ This project analyzes mobile sales, profitability, and customer buying behavior 
 
 ---
 
-### 4. Vivo Mobile Sales and Market Performance Data Reporting 📱
+### 4. Year of 2024 Bangalore D Mart Rice Brand Data Reporting 🛒
 
-To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis, Weekly Analysis, Monthly Analysis, Yearly Analysis 
+To analyse the sales and profit performance of rice products across Bangalore D-Mart stores - Years, Months, Stores, Rice Brands, Product Category, Product Quantity
 
-##### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
+##### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
-##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel]
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
 
 ---
 
@@ -62,6 +62,28 @@ This project uses a D-Mart Rice Sales dataset covering 5 years of sales data acr
 ##### 🌐 Live Dashboard Link - [https://siddes-analyst.github.io/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis/]
 
 ##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Sales_and_Business_Analytics_88_Python_Pandas_Analysis]
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 4. Vivo Mobile Sales and Market Performance Data Reporting 📱
+
+To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis, Weekly Analysis, Monthly Analysis, Yearly Analysis 
+
+##### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQC0UCfdTIZpQ4fI6CicbJVsAUnkOudPtMhzxpmiHCLmlfo?e=ebsCgc]
+
+##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/Sales-and-Marketing-Performance-Analysis-of-Vivo-Smartphones-Using-Excel]
+
+---
 
 ## 4. Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Data Reporting ✈️
 

@@ -13,7 +13,7 @@ through practical data analysis projects.
 
 ### 1. Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis ✈️
 
-This project analyzes flight operations, seat occupancy, revenue, and profitability for Indigo flights operating between Bangalore (BLR) and Chennai (MAA) in 2024. The objective is to identify high-performing flights, optimal timings, and aircraft efficiency to improve overall profitability.
+This project analyzes IndiGo flight operations, seat occupancy, revenue, and profitability for BLR–MAA flights in 2024 to identify high-performing flights, optimal timings, and aircraft efficiency for improved profitability.
 
 #### 🌐 Live Dashboard Link - [[https://app.powerbi.com/view?r=eyJrIjoiNDI1NzRjNTMtNmZhNC00NzI4LTk0NjUtZTdiMDk2ODk5ZmZiIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjljNDc4NGUtYzYwZC00ZGNlLWI3OGQtN2MxMTFlM2M4ZWY3IiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9)]
 

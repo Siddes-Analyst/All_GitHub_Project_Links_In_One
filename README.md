@@ -1,4 +1,8 @@
+# Project Home Pages
 
+## 📊 Project Overview
+
+This project uses a D-Mart Rice Sales dataset covering 5 years of sales data across Year, Month, Date, Location, Product Name, Product ID, Product Category, Product Quantity, Rice Brand, Unit Price, Purchase Cost, Unit Sold, Total Purchase, Sales, and Profit.
 
 Data Analyst with hands-on experience in Python, MySQL, Power BI, and Excel through practical data analysis projects.
 Explore my projects below to view the analysis, dashboards, visualizations, and key insights.

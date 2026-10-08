@@ -122,8 +122,8 @@ To analysis the Vivo mobile Sales Vs Profit Growth and Trends of Daily Analysis,
 ### Project 2 - Chennai To Bangalore And Bangalore To Chennai Indigo Flight Trip Data Reporting ✈️
 
 To analyse the flight trips between - 
-  - Bangalore (BLR) → Chennai (MSS)
-  - Chennai (MSS) → Bangalore (BLR)
+  - Bangalore (BLR) → Chennai (MAA)
+  - Chennai (MAA) → Bangalore (BLR)
 
 ##### 🌐 Live Dashboard Link - [https://1drv.ms/x/c/ce8ecb681701e875/IQBpNOOtBSBJQ4d-g43e_iCOAQGC1D3gB3NrlRapIyQ5HDw?e=JZ0Xhf]
 

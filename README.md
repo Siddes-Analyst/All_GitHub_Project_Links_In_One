@@ -47,7 +47,7 @@ This project analyzes mobile sales, profitability, and customer buying behavior 
 
 To analyse the sales and profit performance of rice products across Bangalore D-Mart stores - Years, Months, Stores, Rice Brands, Product Category, Product Quantity
 
-##### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiNTg4YjkwMTItZjgyYy00MTMzLTg1OTgtZDUxOWMyM2VhMzgzIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+##### 🌐 Live Dashboard Link - [https://app.powerbi.com/view?r=eyJrIjoiOTNmYjdmZjQtYTZjNS00YzAwLWExMmUtNDE3NTQ4YTkzODBlIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
 ##### 📁 Repositories Link - [https://github.com/Siddes-Analyst/D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI]
 
